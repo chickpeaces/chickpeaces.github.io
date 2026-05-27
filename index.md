@@ -4,7 +4,7 @@
     
 - **Software Proficiencies:** Git, Confluence, Linux Operating Systems
 
-- Defense Language Proficiency Test (DLPT) Score of 3/3 in Mandarin Chinese
+- **Defense Language Proficiency Test** (DLPT) Score of 3/3 in Mandarin Chinese
 
 ---
 
@@ -23,12 +23,12 @@
 
 *Mesa, AZ from Jan 2020 - Feb 2022*
 
-- Programmed software solutions as part of a collaborative team for testing the design of the Apache 64-E and V-22 Osprey programs, discovering, documenting, and reporting software deficiencies to ensure all software artifacts were coherent with technical requirements and performance benchmarks.
+- Programmed software solutions as part of a collaborative team for testing the design of the Apache 64-E and V-22 Osprey programs, discovering, documenting, and reporting shortcomings to ensure all software artifacts were coherent with technical requirements and performance benchmarks.
     
 
 - Maintained technical documentation consistent with program designs for the V-22 Osprey, standardizing accurate and precise communication of technical specifications to a large team of software engineers.
     
-- Developed expertise in software engineering best practices, utilizing software engineering tools such as GitLab, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
+- Developed expertise in software engineering best practices, utilizing software engineering tools such as Git, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
     
 ## Arizona State University
 
@@ -48,7 +48,7 @@
 
 *Phoenix, AZ from Jul 2018 – Jun 2019*
 
-- Implemented web application software informing patients about the Human Papilloma Virus with a focus on engagement and information value increasing willingness of test trial participants to opt for an HPV vaccine by 21%.
+- Implemented web application software designed to inform patients about the Human Papilloma Virus with a focus on engagement and information value, increasing willingness of test trial participants to opt for an HPV vaccine by 21%.
     
 ---
 
