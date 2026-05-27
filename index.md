@@ -54,13 +54,17 @@
 
 # Education
 
-- Bachelor of Science in Computer Science
+**Bachelor of Science in Computer Science**
 
-*Graduated Aug 2019 from Arizona State University, Ira A. Fulton School of Engineering*
+*Arizona State University, Ira A. Fulton School of Engineering*
 
-- Associate of Arts in Mandarin Chinese
+*Graduated Aug 2019*
 
-*Graduated Oct 2024 from Defense Language Institute, School of Chinese Mandarin*
+**Associate of Arts in Mandarin Chinese**
+
+*Defense Language Institute, School of Chinese Mandarin*
+
+*Graduated Oct 2024*
 
 ---
 
