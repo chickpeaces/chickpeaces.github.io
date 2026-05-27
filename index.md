@@ -2,7 +2,7 @@
 
 - **Programming Languages:** Python, C, C++, C#, HTML/CSS, Javascript/Node.js, SQL
     
-- **Software Proficiencies:** Git, Docker, Gerrit, Confluence, Linux Operating Systems
+- **Software Proficiencies:** Git, Docker, Gerrit, Confluence, Prompt Engineering w/AI, Linux Operating Systems
 
 - **Defense Language Proficiency Test** (DLPT) Score of 3/3 in Mandarin Chinese
 
