@@ -23,10 +23,9 @@
 
 *Mesa, AZ from Jan 2020 - Feb 2022*
 
-- Programmed software solutions as part of a collaborative team for testing the design of the Apache 64-E and V-22 Osprey programs, discovering, documenting, and reporting shortcomings to ensure all software artifacts were coherent with technical requirements and performance benchmarks.
-    
+- Programmed software solutions for testing the design of the Apache 64-E and V-22 Osprey programs as part of a collaborative team, discovering, documenting, and reporting shortcomings to ensure all software artifacts were coherent with technical requirements and enabling 100% of software artifacts tested to reach performance benchmarks.
 
-- Maintained technical documentation consistent with program designs for the V-22 Osprey, standardizing accurate and precise communication of technical specifications to a large team of software engineers.
+- Maintained technical documentation consistent with program designs for the V-22 Osprey, standardizing accurate and precise communication of technical specifications to a large team of software engineers and reducing time to implement new features by up to 35%.
     
 - Developed expertise in software engineering best practices, utilizing software engineering tools such as Git, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
     
@@ -39,7 +38,9 @@
 *Tempe, AZ from Jan 2019 – Jun 2019*
 
 
-- Researched, designed, and implemented a game program for mathematics education, administering the IT infrastructure responsible for delivering the game into the classroom to ensure smooth operation during class time.
+- Researched, designed, and implemented a game program for mathematics education through a program called Inquiry Oriented Linear Algebra (IOLA), supporting undergratuate students' flexible development of linear algebra reasoning.
+
+- Administered the IT infrastructure responsible for delivering the game into the classroom, guaranteeing smooth operation during class time.
     
 
 **ASU College of Nursing and Health**
