@@ -2,7 +2,7 @@
 
 - **Programming Languages:** Python, C, C++, C#, HTML/CSS, Javascript/Node.js, SQL
     
-- **Software Proficiencies:** Git, Docker, Gerrit, Confluence, Prompt Engineering w/AI, Linux Operating Systems
+- **Software Proficiencies:** Git, Docker, Gerrit, Confluence, GEN AI/LLM Prompt Engineering, Linux Operating Systems
 
 - **Defense Language Proficiency Test** (DLPT) Score of 3/3 in Mandarin Chinese
 
@@ -23,11 +23,11 @@
 
 *Mesa, AZ from Jan 2020 - Feb 2022*
 
-- Programmed software solutions for testing the design of the Apache 64-E and V-22 Osprey programs as part of a collaborative team, discovering, documenting, and reporting shortcomings to ensure all software artifacts were coherent with technical requirements and enabling 100% of software artifacts tested to reach performance benchmarks.
+-Programmed software solutions as part of a collaborative team for testing the design of the Apache 64-E and V-22 Osprey programs, discovering, documenting, and reporting software deficiencies, eliminating approx. 85 software bugs ranging between visual error to systems critical leading to an increase in performance benchmarks by 8%.
 
-- Maintained technical documentation consistent with program designs for the V-22 Osprey, standardizing accurate and precise communication of technical specifications to a large team of software engineers and reducing time to implement new features by up to 35%.
+- Maintained technical documentation consistent with program designs for the V-22 Osprey, adding over 100 technical specifications to the documentation database and standardizing accurate communication of technical specifications to a large team of software engineers and 
     
-- Developed expertise in software engineering best practices, utilizing software engineering tools such as Git, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
+- Developed expertise in software engineering best practices, utilizing software engineering tools such as GitLab, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
     
 ## Arizona State University
 
@@ -37,11 +37,7 @@
 
 *Tempe, AZ from Jan 2019 – Jun 2019*
 
-
-- Researched, designed, and implemented a game program for mathematics education through a program called Inquiry Oriented Linear Algebra (IOLA), supporting undergratuate students' flexible development of linear algebra reasoning.
-
-- Administered the IT infrastructure responsible for delivering the game into the classroom, guaranteeing smooth operation during class time.
-    
+- Researched, designed, implemented, and administered a game program for mathematics education focused on undergraduate linear algebra called Inquiry Oriented Linear Algebra (IOLA), ultimately increasing student pass rate by 35%
 
 **ASU College of Nursing and Health**
 
