@@ -6,6 +6,9 @@
 
 - **Defense Language Proficiency Test** (DLPT) Score of 3/3 in Mandarin Chinese
 
+- 
+- Active **TS/SCI** Clearance with Counterintelligence (**CI**) Polygraph
+
 ---
 
 # Work Experience
