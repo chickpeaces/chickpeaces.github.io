@@ -27,7 +27,7 @@
 
 - Programmed software solutions as part of a collaborative team for testing the design of the Apache 64-E and V-22 Osprey programs, discovering, documenting, and reporting software deficiencies, eliminating approx. 85 software bugs ranging between visual error to systems critical leading to an increase in performance benchmarks by 8%.
 
-- Maintained technical documentation consistent with program designs for the V-22 Osprey, adding over 100 technical specifications to the documentation database and standardizing accurate communication of technical specifications to a large team of software engineers and 
+- Maintained technical documentation consistent with program designs for the V-22 Osprey, standardizing accurate communication of technical specifications to a large team of software engineers and adding over 100 technical specifications to documentation databases.
     
 - Developed expertise in software engineering best practices, utilizing software engineering tools such as GitLab, Gerrit, Jenkins, Jira, and Confluence for timely delivery of product improvements in a fast-paced agile environment.
     
