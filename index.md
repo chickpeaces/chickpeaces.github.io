@@ -20,9 +20,9 @@
 
 *Schofield Barracks, HI from Feb 2022 - Feb 2027*
 
-- Served as a Multidisciplinary Language Analyst at the National Security Agency (NSA), leveraging mandarin language and chinese cultural expertise to translate over 500 pages of voice or document foreign language content.
+- Served as a Multidisciplinary Language Analyst at the National Security Agency (NSA), utilizing mandarin language and chinese cultural expertise to translate over 500 pages of voice or document foreign language content.
 
-- Leverage advanced technical software background to autodidactically develop our work division's Target Development and Network Analysis (TDNA) capabilities, pioneering a new section of linguists to deliver over 250 foreign intelligence reports focused on enduring target sets ranging from moderate to critical value.
+- Leveraged advanced technical software background to autodidactically develop our work division's Target Development and Network Analysis (TDNA) capabilities, pioneering a new section of linguists to deliver over 250 foreign intelligence reports, ranging from moderate to critical value, focused on enduring target sets.
 
 - Attained Military Cryptologic Continuing Education Program (MCCEP) level 1 certification, consisting of coursework, language proficiency, and on-the-job training, placing myself in the top 93% of all military language analysts.
 
