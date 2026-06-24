@@ -26,7 +26,7 @@
 
 - Attained Military Cryptologic Continuing Education Program (MCCEP) level 1 certification, consisting of coursework, language proficiency, and on-the-job training, placing myself in the top 93% of all military language analysts.
 
-- Temporary duty assignment to Canberra, Australia from August 2025 to January 2026 as part of a joint foreign military exchange, augmenting both the Australian Defense Force's (ADF) language capabilities with a mission targeted database and the Australian Signals Directorate's (ASD) techincal expertise with 18,000 words of training materials.
+- Temporary duty assignment to Canberra, Australia from August 2025 to January 2026 as part of a joint foreign military exchange, augmenting both the Australian Defense Force's (ADF) language capabilities with a mission targeted database and the Australian Signals Directorate's (ASD) technical expertise with 18,000 words of training materials.
  
 ## Boeing Defense, Space & Security
 
