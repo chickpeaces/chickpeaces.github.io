@@ -1,6 +1,6 @@
 # Skills and Qualifications
 
-- **Programming Languages:** Python, C, C++, C#, HTML/CSS, Javascript/Node.js, SQL
+- **Programming Languages:** Python, C, C++, Java, HTML/CSS, Javascript/Node.js, SQL
     
 - **Software Proficiencies:** Git, Docker, Gerrit, Confluence, GenAI/LLM Prompt Engineering, Linux Operating Systems
 
